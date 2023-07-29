@@ -6,8 +6,8 @@ Choice:
 -1 Load the fake data
 1. Print all customers (call the toString method)
 2. Print all insurance information (call the toString method)
-Given a policy number, print the policy information Find all of the policies for a given customer 4.
-3.
+3. Given a policy number, print the policy information
+4.  Find all of the policies for a given customer
 5. Sort the insurance policy information by customer number
 6. Sort the insurance policy information by policy number
 7. Store the data in text files
