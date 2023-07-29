@@ -1,5 +1,6 @@
 # Insurance-Project
 Insurance Application in C++
+
 In this application, we are giving the user a choice of adding either customers or policies for existing customers, as well as saving and reading their insurance information from a text file
 Choice:
 -1 Load the fake data
